@@ -136,11 +136,11 @@ power-plant-predictor/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/power-plant-predictor.git
+git clone https://github.com/mohanadcv/power-plant-predictor.git
 cd power-plant-predictor
 ```
 
-2. **Create virtual environment** (recommended)
+2. **Create virtual environment**
 
 ```bash
 python -m venv venv
