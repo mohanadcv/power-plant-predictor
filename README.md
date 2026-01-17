@@ -136,7 +136,7 @@ power-plant-predictor/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/mohanadcv/power-plant-predictor.git
+git clone https://github.com/mohanadcv/regression_power-plant-predictor.git
 cd power-plant-predictor
 ```
 
